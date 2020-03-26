@@ -478,8 +478,7 @@ async def help( ctx ):
 
 # Token
 
-client.run('Njg5NTE0NDI1OTg3NjI5MDcz.Xnu-UQ.mIBhIOFG0VEESFrtw82SQXK44U4')
 
-#token = os.environ.get('BOT_TOKEN')
+token = os.environ.get('BOT_TOKEN')
 
 #client.run(str(token))
